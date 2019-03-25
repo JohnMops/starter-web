@@ -1,5 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+
+
+Adding a conflict from master 
+
 Conflict
 # TEAM
 More editing
