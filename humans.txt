@@ -3,7 +3,7 @@
 
 # TEAM
 
-	New change
+Edited change	New change
 
     <name> -- <role> -- <twitter>
 
