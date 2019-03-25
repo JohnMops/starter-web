@@ -1,10 +1,15 @@
 # humanstxt.org/
+Inserting something here
 # The humans responsible & technology colophon
+<<<<<<< HEAD
 
 
 Adding a conflict from master 
 
 Conflict
+=======
+Edited for Rebase
+>>>>>>> Added conflicts
 # TEAM
 More editing
 
