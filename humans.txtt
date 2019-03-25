@@ -1,0 +1,31 @@
+wsefw# humanstxt.org/
+Inserting something here
+# The humans responsible & technology colophon
+<<<<<<< HEAD
+
+
+Adding a conflict from master 
+
+Conflict
+=======
+Edited for Rebase
+>>>>>>> Added conflicts
+# TEAM
+More editing
+
+Edited for Rebase
+
+
+Modified for Branching training
+Edited change	New change
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Angular
+    jQuery, Modernizr
